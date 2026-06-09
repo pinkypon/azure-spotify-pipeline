@@ -1,0 +1,572 @@
+[
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/acoustic.csv",
+    "p_sink_folder": "acoustic",
+    "p_sink_file": "acoustic.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/afrobeat.csv",
+    "p_sink_folder": "afrobeat",
+    "p_sink_file": "afrobeat.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/alt-rock.csv",
+    "p_sink_folder": "alt-rock",
+    "p_sink_file": "alt-rock.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/alternative.csv",
+    "p_sink_folder": "alternative",
+    "p_sink_file": "alternative.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/ambient.csv",
+    "p_sink_folder": "ambient",
+    "p_sink_file": "ambient.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/anime.csv",
+    "p_sink_folder": "anime",
+    "p_sink_file": "anime.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/black-metal.csv",
+    "p_sink_folder": "black-metal",
+    "p_sink_file": "black-metal.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/bluegrass.csv",
+    "p_sink_folder": "bluegrass",
+    "p_sink_file": "bluegrass.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/blues.csv",
+    "p_sink_folder": "blues",
+    "p_sink_file": "blues.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/brazil.csv",
+    "p_sink_folder": "brazil",
+    "p_sink_file": "brazil.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/breakbeat.csv",
+    "p_sink_folder": "breakbeat",
+    "p_sink_file": "breakbeat.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/british.csv",
+    "p_sink_folder": "british",
+    "p_sink_file": "british.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/cantopop.csv",
+    "p_sink_folder": "cantopop",
+    "p_sink_file": "cantopop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/chicago-house.csv",
+    "p_sink_folder": "chicago-house",
+    "p_sink_file": "chicago-house.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/children.csv",
+    "p_sink_folder": "children",
+    "p_sink_file": "children.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/chill.csv",
+    "p_sink_folder": "chill",
+    "p_sink_file": "chill.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/classical.csv",
+    "p_sink_folder": "classical",
+    "p_sink_file": "classical.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/club.csv",
+    "p_sink_folder": "club",
+    "p_sink_file": "club.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/comedy.csv",
+    "p_sink_folder": "comedy",
+    "p_sink_file": "comedy.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/country.csv",
+    "p_sink_folder": "country",
+    "p_sink_file": "country.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/dance.csv",
+    "p_sink_folder": "dance",
+    "p_sink_file": "dance.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/dancehall.csv",
+    "p_sink_folder": "dancehall",
+    "p_sink_file": "dancehall.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/death-metal.csv",
+    "p_sink_folder": "death-metal",
+    "p_sink_file": "death-metal.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/deep-house.csv",
+    "p_sink_folder": "deep-house",
+    "p_sink_file": "deep-house.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/detroit-techno.csv",
+    "p_sink_folder": "detroit-techno",
+    "p_sink_file": "detroit-techno.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/disco.csv",
+    "p_sink_folder": "disco",
+    "p_sink_file": "disco.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/disney.csv",
+    "p_sink_folder": "disney",
+    "p_sink_file": "disney.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/drum-and-bass.csv",
+    "p_sink_folder": "drum-and-bass",
+    "p_sink_file": "drum-and-bass.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/dub.csv",
+    "p_sink_folder": "dub",
+    "p_sink_file": "dub.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/dubstep.csv",
+    "p_sink_folder": "dubstep",
+    "p_sink_file": "dubstep.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/edm.csv",
+    "p_sink_folder": "edm",
+    "p_sink_file": "edm.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/electro.csv",
+    "p_sink_folder": "electro",
+    "p_sink_file": "electro.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/electronic.csv",
+    "p_sink_folder": "electronic",
+    "p_sink_file": "electronic.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/emo.csv",
+    "p_sink_folder": "emo",
+    "p_sink_file": "emo.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/folk.csv",
+    "p_sink_folder": "folk",
+    "p_sink_file": "folk.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/forro.csv",
+    "p_sink_folder": "forro",
+    "p_sink_file": "forro.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/french.csv",
+    "p_sink_folder": "french",
+    "p_sink_file": "french.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/funk.csv",
+    "p_sink_folder": "funk",
+    "p_sink_file": "funk.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/garage.csv",
+    "p_sink_folder": "garage",
+    "p_sink_file": "garage.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/german.csv",
+    "p_sink_folder": "german",
+    "p_sink_file": "german.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/gospel.csv",
+    "p_sink_folder": "gospel",
+    "p_sink_file": "gospel.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/goth.csv",
+    "p_sink_folder": "goth",
+    "p_sink_file": "goth.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/grindcore.csv",
+    "p_sink_folder": "grindcore",
+    "p_sink_file": "grindcore.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/groove.csv",
+    "p_sink_folder": "groove",
+    "p_sink_file": "groove.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/grunge.csv",
+    "p_sink_folder": "grunge",
+    "p_sink_file": "grunge.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/guitar.csv",
+    "p_sink_folder": "guitar",
+    "p_sink_file": "guitar.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/happy.csv",
+    "p_sink_folder": "happy",
+    "p_sink_file": "happy.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/hard-rock.csv",
+    "p_sink_folder": "hard-rock",
+    "p_sink_file": "hard-rock.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/hardcore.csv",
+    "p_sink_folder": "hardcore",
+    "p_sink_file": "hardcore.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/hardstyle.csv",
+    "p_sink_folder": "hardstyle",
+    "p_sink_file": "hardstyle.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/heavy-metal.csv",
+    "p_sink_folder": "heavy-metal",
+    "p_sink_file": "heavy-metal.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/hip-hop.csv",
+    "p_sink_folder": "hip-hop",
+    "p_sink_file": "hip-hop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/honky-tonk.csv",
+    "p_sink_folder": "honky-tonk",
+    "p_sink_file": "honky-tonk.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/house.csv",
+    "p_sink_folder": "house",
+    "p_sink_file": "house.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/idm.csv",
+    "p_sink_folder": "idm",
+    "p_sink_file": "idm.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/indian.csv",
+    "p_sink_folder": "indian",
+    "p_sink_file": "indian.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/indie.csv",
+    "p_sink_folder": "indie",
+    "p_sink_file": "indie.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/indie-pop.csv",
+    "p_sink_folder": "indie-pop",
+    "p_sink_file": "indie-pop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/industrial.csv",
+    "p_sink_folder": "industrial",
+    "p_sink_file": "industrial.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/iranian.csv",
+    "p_sink_folder": "iranian",
+    "p_sink_file": "iranian.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/j-dance.csv",
+    "p_sink_folder": "j-dance",
+    "p_sink_file": "j-dance.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/j-idol.csv",
+    "p_sink_folder": "j-idol",
+    "p_sink_file": "j-idol.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/j-pop.csv",
+    "p_sink_folder": "j-pop",
+    "p_sink_file": "j-pop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/j-rock.csv",
+    "p_sink_folder": "j-rock",
+    "p_sink_file": "j-rock.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/jazz.csv",
+    "p_sink_folder": "jazz",
+    "p_sink_file": "jazz.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/k-pop.csv",
+    "p_sink_folder": "k-pop",
+    "p_sink_file": "k-pop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/kids.csv",
+    "p_sink_folder": "kids",
+    "p_sink_file": "kids.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/latin.csv",
+    "p_sink_folder": "latin",
+    "p_sink_file": "latin.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/latino.csv",
+    "p_sink_folder": "latino",
+    "p_sink_file": "latino.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/malay.csv",
+    "p_sink_folder": "malay",
+    "p_sink_file": "malay.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/mandopop.csv",
+    "p_sink_folder": "mandopop",
+    "p_sink_file": "mandopop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/metal.csv",
+    "p_sink_folder": "metal",
+    "p_sink_file": "metal.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/metalcore.csv",
+    "p_sink_folder": "metalcore",
+    "p_sink_file": "metalcore.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/minimal-techno.csv",
+    "p_sink_folder": "minimal-techno",
+    "p_sink_file": "minimal-techno.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/mpb.csv",
+    "p_sink_folder": "mpb",
+    "p_sink_file": "mpb.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/new-age.csv",
+    "p_sink_folder": "new-age",
+    "p_sink_file": "new-age.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/opera.csv",
+    "p_sink_folder": "opera",
+    "p_sink_file": "opera.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/pagode.csv",
+    "p_sink_folder": "pagode",
+    "p_sink_file": "pagode.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/party.csv",
+    "p_sink_folder": "party",
+    "p_sink_file": "party.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/piano.csv",
+    "p_sink_folder": "piano",
+    "p_sink_file": "piano.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/pop.csv",
+    "p_sink_folder": "pop",
+    "p_sink_file": "pop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/pop-film.csv",
+    "p_sink_folder": "pop-film",
+    "p_sink_file": "pop-film.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/power-pop.csv",
+    "p_sink_folder": "power-pop",
+    "p_sink_file": "power-pop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/progressive-house.csv",
+    "p_sink_folder": "progressive-house",
+    "p_sink_file": "progressive-house.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/psych-rock.csv",
+    "p_sink_folder": "psych-rock",
+    "p_sink_file": "psych-rock.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/punk.csv",
+    "p_sink_folder": "punk",
+    "p_sink_file": "punk.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/punk-rock.csv",
+    "p_sink_folder": "punk-rock",
+    "p_sink_file": "punk-rock.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/r-n-b.csv",
+    "p_sink_folder": "r-n-b",
+    "p_sink_file": "r-n-b.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/reggae.csv",
+    "p_sink_folder": "reggae",
+    "p_sink_file": "reggae.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/reggaeton.csv",
+    "p_sink_folder": "reggaeton",
+    "p_sink_file": "reggaeton.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/rock.csv",
+    "p_sink_folder": "rock",
+    "p_sink_file": "rock.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/rock-n-roll.csv",
+    "p_sink_folder": "rock-n-roll",
+    "p_sink_file": "rock-n-roll.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/rockabilly.csv",
+    "p_sink_folder": "rockabilly",
+    "p_sink_file": "rockabilly.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/romance.csv",
+    "p_sink_folder": "romance",
+    "p_sink_file": "romance.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/sad.csv",
+    "p_sink_folder": "sad",
+    "p_sink_file": "sad.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/salsa.csv",
+    "p_sink_folder": "salsa",
+    "p_sink_file": "salsa.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/samba.csv",
+    "p_sink_folder": "samba",
+    "p_sink_file": "samba.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/sertanejo.csv",
+    "p_sink_folder": "sertanejo",
+    "p_sink_file": "sertanejo.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/show-tunes.csv",
+    "p_sink_folder": "show-tunes",
+    "p_sink_file": "show-tunes.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/singer-songwriter.csv",
+    "p_sink_folder": "singer-songwriter",
+    "p_sink_file": "singer-songwriter.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/ska.csv",
+    "p_sink_folder": "ska",
+    "p_sink_file": "ska.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/sleep.csv",
+    "p_sink_folder": "sleep",
+    "p_sink_file": "sleep.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/songwriter.csv",
+    "p_sink_folder": "songwriter",
+    "p_sink_file": "songwriter.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/soul.csv",
+    "p_sink_folder": "soul",
+    "p_sink_file": "soul.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/spanish.csv",
+    "p_sink_folder": "spanish",
+    "p_sink_file": "spanish.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/study.csv",
+    "p_sink_folder": "study",
+    "p_sink_file": "study.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/swedish.csv",
+    "p_sink_folder": "swedish",
+    "p_sink_file": "swedish.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/synth-pop.csv",
+    "p_sink_folder": "synth-pop",
+    "p_sink_file": "synth-pop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/tango.csv",
+    "p_sink_folder": "tango",
+    "p_sink_file": "tango.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/techno.csv",
+    "p_sink_folder": "techno",
+    "p_sink_file": "techno.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/trance.csv",
+    "p_sink_folder": "trance",
+    "p_sink_file": "trance.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/trip-hop.csv",
+    "p_sink_folder": "trip-hop",
+    "p_sink_file": "trip-hop.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/turkish.csv",
+    "p_sink_folder": "turkish",
+    "p_sink_file": "turkish.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/pinkypon/azure-spotify-pipeline/main/data/world-music.csv",
+    "p_sink_folder": "world-music",
+    "p_sink_file": "world-music.csv"
+  }
+]
