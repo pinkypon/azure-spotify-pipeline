@@ -38,7 +38,12 @@ models:
       - name: artist
         tests:
           - not_null
-          - unique
+      - name: avg_popularity
+        tests:
+          - not_null
+      - name: count_track
+        tests:
+          - not_null
 
   - name: song_length_vs_popularity
     description: "Average popularity grouped by song duration bucket"

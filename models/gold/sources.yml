@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: spotify_gold
     database: spotify_gold
-    schema: gold_views
+    schema: dbo
     tables:
       - name: genre_audio_dna
       - name: mood_summary
