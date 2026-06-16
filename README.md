@@ -39,24 +39,24 @@ Each task only runs if the previous one succeeds. No schedule — triggered manu
 ## Dashboard Preview
 
 ### Popularity Analysis
-![Popularity Analysis](assets/powerbi/popularity_analysis.png)
-Compares average popularity across explicit vs non-explicit tracks, major vs minor keys, and song length categories.
+![Popularity Analysis](assets/powerbi/popularity_analysis.jpeg)
+Explicit tracks score higher in average popularity (36.5) vs non-explicit (33.0), and minor key songs slightly edge out major key tracks.
 
 ### Mood Analysis
 ![Mood Analysis](assets/powerbi/mood_analysis.jpeg)
-Breaks down track distribution and average popularity across four mood categories — Angry, Sad, Happy, and Peaceful.
+Angry mood tracks lead in average popularity (34.5) despite Happy mood dominating track count (38.11% of all tracks).
 
 ### Artist Leaderboard
 ![Artist Leaderboard](assets/powerbi/artist_leaderboard.jpeg)
-Ranks the top 10 artists by average popularity score across all genres.
+Harry Styles ranks #1 with an average popularity of 92, followed closely by Luar La L (91) and Olivia Rodrigo (87).
 
 ### Genre Audio DNA
 ![Genre Audio DNA](assets/powerbi/genre_audio_dna.jpeg)
-Visualizes the audio fingerprint of each genre — danceability, energy, valence, and acousticness side by side.
+Kids and Chicago House genres show the highest danceability scores, while Techno and Detroit Techno lead in energy.
 
 ### Time Signature Analysis
 ![Time Signature Analysis](assets/powerbi/time_signature_analysis.jpeg)
-Shows average popularity by time signature, with 102K tracks in standard 4/4 time dominating the dataset.
+102K tracks use 4/4 time signature, the most common in music. Tracks with an unclassified time signature (0) surprisingly show the highest average popularity at 37.0.
 
 ## How to Run
 1. Clone the repo
