@@ -52,7 +52,7 @@ Harry Styles ranks #1 with an average popularity of 92, followed closely by Luar
 
 ### Genre Audio DNA
 ![Genre Audio DNA](assets/powerbi/genre_audio_dna.jpeg)
-Kids and Chicago House genres show the highest danceability scores, while Techno and Detroit Techno lead in energy.
+Compares average danceability, energy, valence, and acousticness across all 114 Spotify genres, filterable by genre using the slicer.
 
 ### Time Signature Analysis
 ![Time Signature Analysis](assets/powerbi/time_signature_analysis.jpeg)
