@@ -1,0 +1,16 @@
+spotify_pipeline:
+  target: dev
+  outputs:
+    dev:
+      type: synapse
+      driver: 'ODBC Driver 18 for SQL Server'
+      server: spotify-synapse-ondemand.sql.azuresynapse.net
+      port: 1433
+      database: spotify_gold
+      schema: dbo
+      authentication: ActiveDirectoryServicePrincipal
+      client_id: "{{ env_var('AZURE_CLIENT_ID') }}"
+      client_secret: "{{ env_var('AZURE_CLIENT_SECRET') }}"
+      tenant_id: "{{ env_var('AZURE_TENANT_ID') }}"
+      encrypt: true
+      trust_cert: true

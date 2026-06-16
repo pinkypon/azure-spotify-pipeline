@@ -1,0 +1,54 @@
+version: 2
+
+models:
+  - name: genre_audio_dna
+    description: "Average audio features per Spotify genre"
+    columns:
+      - name: track_genre
+        description: "Spotify genre name"
+        tests:
+          - not_null
+          - unique
+      - name: avg_danceability
+        tests:
+          - not_null
+      - name: count_tracks
+        tests:
+          - not_null
+
+  - name: mood_summary
+    description: "Track counts and audio features grouped by mood classification"
+    columns:
+      - name: mood
+        tests:
+          - not_null
+          - unique
+
+  - name: popularity_by_explicit
+    description: "Average popularity comparison between explicit and non-explicit tracks"
+    columns:
+      - name: explicit
+        tests:
+          - not_null
+          - unique
+
+  - name: top_artist
+    description: "Top artists ranked by average popularity with minimum 3 tracks"
+    columns:
+      - name: artist
+        tests:
+          - not_null
+      - name: avg_popularity
+        tests:
+          - not_null
+      - name: count_track
+        tests:
+          - not_null
+
+  - name: song_length_vs_popularity
+    description: "Average popularity grouped by song duration bucket"
+    columns:
+      - name: duration_bucket
+        tests:
+          - not_null
+          - unique

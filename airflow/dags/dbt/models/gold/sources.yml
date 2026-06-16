@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: spotify_gold
+    database: spotify_gold
+    schema: dbo
+    tables:
+      - name: genre_audio_dna
+      - name: mood_summary
+      - name: popularity_by_explicit
+      - name: popularity_by_mode
+      - name: popularity_by_time_signature
+      - name: top_artist
+      - name: song_length_vs_popularity
